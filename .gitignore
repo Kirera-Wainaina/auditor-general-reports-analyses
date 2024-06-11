@@ -7,3 +7,12 @@ env/
 
 # folder containing pdfs
 audit_reports/
+
+# ignore xlsx files
+*.xlsx
+
+# ignore scratch file
+Untitled.ipynb
+
+# libreoffice excel files
+*.xlsx#
