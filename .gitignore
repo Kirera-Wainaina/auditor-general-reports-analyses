@@ -16,3 +16,6 @@ Untitled.ipynb
 
 # libreoffice excel files
 *.xlsx#
+
+# .env file
+.env
