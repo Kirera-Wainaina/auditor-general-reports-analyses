@@ -19,3 +19,8 @@ Untitled.ipynb
 
 # .env file
 .env
+
+# test file
+test.py
+
+__pycache__
